@@ -1,0 +1,6 @@
+framework module Pods_QuantsappMachineTest {
+  umbrella header "Pods-QuantsappMachineTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
